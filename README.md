@@ -5,3 +5,5 @@
 ```
 얼방 ---> 얼음 방패
 ```
+
+데이터는 http://www.heartharena.com/ko/tierlist 이곳을 참조했습니다.
